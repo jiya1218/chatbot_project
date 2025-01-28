@@ -1,5 +1,4 @@
-# chatbot_project
-# README.md
+
 # AI Chatbot with OpenAI GPT
 
 A conversational AI chatbot built using OpenAI's GPT-3.5-turbo model.
